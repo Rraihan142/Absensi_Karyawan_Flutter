@@ -1,0 +1,70 @@
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 3
+)
+
+karyawan_id value: 3
+Jumlah baris hasil: 2
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 2
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 3
+)
+
+karyawan_id value: 3
+Jumlah baris hasil: 2
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 2
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 3
+)
+
+karyawan_id value: 3
+Jumlah baris hasil: 2
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 2
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 3
+)
+
+karyawan_id value: 3
+Jumlah baris hasil: 2
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 2
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 3
+)
+
+karyawan_id value: 3
+Jumlah baris hasil: 2
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 2
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 4
+)
+
+karyawan_id value: 4
+Jumlah baris hasil: 1
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 1
+Script dimulai
+karyawan_id GET: Array
+(
+    [karyawan_id] => 5
+)
+
+karyawan_id value: 5
+Jumlah baris hasil: 1
+Query berhasil dieksekusi
+Total data dimasukkan ke riwayat: 1

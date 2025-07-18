@@ -1,0 +1,8 @@
+Array
+(
+    [karyawan_id] => 5
+    [jenis_absensi] => check_in
+    [latitude] => 37.4219983
+    [longitude] => -122.084
+    [lokasi] => Google Building 43, , Mountain View, 94043, United States
+)
